@@ -1,0 +1,25 @@
+# 비밀값 — 절대 커밋하지 않음
+src/main/java/config.properties
+*.env
+
+# 업로드된 사진(제보·청소 인증)
+uploads/
+
+# 빌드 결과물·IDE
+build/
+bin/
+target/
+out/
+*.class
+*.war
+.metadata/
+.settings/
+.classpath
+.project
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
