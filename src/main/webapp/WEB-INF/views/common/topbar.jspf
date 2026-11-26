@@ -1,0 +1,15 @@
+<%@ page pageEncoding="UTF-8" %>
+
+<%-- 로그인 후 화면 상단 바. 포함하는 JSP에 LoginUser me 변수가 있어야 합니다. --%>
+<nav class="navbar bg-white border-bottom px-3">
+  <span class="navbar-brand re-brand mb-0">레인아이</span>
+  <div class="d-flex align-items-center gap-2">
+    <span class="small text-secondary">
+      <%= kr.raineye.util.Html.esc(me.getNickname()) %>
+      <span class="badge text-bg-light border"><%= me.getRole().getLabel() %></span>
+    </span>
+    <form method="post" action="<%= request.getContextPath() %>/logout" class="m-0">
+      <button type="submit" class="btn btn-sm btn-outline-secondary">로그아웃</button>
+    </form>
+  </div>
+</nav>
