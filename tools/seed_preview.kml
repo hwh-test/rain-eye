@@ -10,7 +10,7 @@
 <Placemark><name>② 왕십리역 주변 상가 (반경 100m)</name><styleUrl>#hot</styleUrl><Polygon><outerBoundaryIs><LinearRing><coordinates>127.0372000,37.5622993,0 127.0373970,37.5622857,0 127.0375880,37.5622451,0 127.0377673,37.5621788,0 127.0379292,37.5620889,0 127.0380691,37.5619781,0 127.0381825,37.5618497,0 127.0382661,37.5617076,0 127.0383173,37.5615562,0 127.0383345,37.5614000,0 127.0383173,37.5612438,0 127.0382661,37.5610924,0 127.0381825,37.5609503,0 127.0380691,37.5608219,0 127.0379292,37.5607111,0 127.0377673,37.5606212,0 127.0375880,37.5605549,0 127.0373970,37.5605143,0 127.0372000,37.5605007,0 127.0370030,37.5605143,0 127.0368120,37.5605549,0 127.0366327,37.5606212,0 127.0364708,37.5607111,0 127.0363309,37.5608219,0 127.0362175,37.5609503,0 127.0361339,37.5610924,0 127.0360827,37.5612438,0 127.0360655,37.5614000,0 127.0360827,37.5615562,0 127.0361339,37.5617076,0 127.0362175,37.5618497,0 127.0363309,37.5619781,0 127.0364708,37.5620889,0 127.0366327,37.5621788,0 127.0368120,37.5622451,0 127.0370030,37.5622857,0 127.0372000,37.5622993,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
 <Placemark><name>③ 마장동 축산물시장 일대 (반경 100m)</name><styleUrl>#hot</styleUrl><Polygon><outerBoundaryIs><LinearRing><coordinates>127.0412000,37.5696993,0 127.0413970,37.5696857,0 127.0415881,37.5696451,0 127.0417673,37.5695788,0 127.0419293,37.5694889,0 127.0420692,37.5693781,0 127.0421826,37.5692497,0 127.0422662,37.5691076,0 127.0423174,37.5689562,0 127.0423346,37.5688000,0 127.0423174,37.5686438,0 127.0422662,37.5684924,0 127.0421826,37.5683503,0 127.0420692,37.5682219,0 127.0419293,37.5681111,0 127.0417673,37.5680212,0 127.0415881,37.5679549,0 127.0413970,37.5679143,0 127.0412000,37.5679007,0 127.0410030,37.5679143,0 127.0408119,37.5679549,0 127.0406327,37.5680212,0 127.0404707,37.5681111,0 127.0403308,37.5682219,0 127.0402174,37.5683503,0 127.0401338,37.5684924,0 127.0400826,37.5686438,0 127.0400654,37.5688000,0 127.0400826,37.5689562,0 127.0401338,37.5691076,0 127.0402174,37.5692497,0 127.0403308,37.5693781,0 127.0404707,37.5694889,0 127.0406327,37.5695788,0 127.0408119,37.5696451,0 127.0410030,37.5696857,0 127.0412000,37.5696993,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
 <Placemark><name>④ 청계천 변 사근동(용답역 맞은편) (반경 100m)</name><styleUrl>#hot</styleUrl><Polygon><outerBoundaryIs><LinearRing><coordinates>127.0482000,37.5628993,0 127.0483970,37.5628857,0 127.0485880,37.5628451,0 127.0487673,37.5627788,0 127.0489293,37.5626889,0 127.0490691,37.5625781,0 127.0491825,37.5624497,0 127.0492661,37.5623076,0 127.0493173,37.5621562,0 127.0493345,37.5620000,0 127.0493173,37.5618438,0 127.0492661,37.5616924,0 127.0491825,37.5615503,0 127.0490691,37.5614219,0 127.0489293,37.5613111,0 127.0487673,37.5612212,0 127.0485880,37.5611549,0 127.0483970,37.5611143,0 127.0482000,37.5611007,0 127.0480030,37.5611143,0 127.0478120,37.5611549,0 127.0476327,37.5612212,0 127.0474707,37.5613111,0 127.0473309,37.5614219,0 127.0472175,37.5615503,0 127.0471339,37.5616924,0 127.0470827,37.5618438,0 127.0470655,37.5620000,0 127.0470827,37.5621562,0 127.0471339,37.5623076,0 127.0472175,37.5624497,0 127.0473309,37.5625781,0 127.0474707,37.5626889,0 127.0476327,37.5627788,0 127.0478120,37.5628451,0 127.0480030,37.5628857,0 127.0482000,37.5628993,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
-<Placemark><name>⑤ 발표 강의실 건물 주변(임시 좌표) (반경 100m)</name><styleUrl>#hot</styleUrl><Polygon><outerBoundaryIs><LinearRing><coordinates>127.0497000,37.5597993,0 127.0498970,37.5597857,0 127.0500880,37.5597451,0 127.0502672,37.5596788,0 127.0504292,37.5595889,0 127.0505691,37.5594781,0 127.0506825,37.5593497,0 127.0507660,37.5592076,0 127.0508172,37.5590562,0 127.0508345,37.5589000,0 127.0508172,37.5587438,0 127.0507660,37.5585924,0 127.0506825,37.5584503,0 127.0505691,37.5583219,0 127.0504292,37.5582111,0 127.0502672,37.5581212,0 127.0500880,37.5580549,0 127.0498970,37.5580143,0 127.0497000,37.5580007,0 127.0495030,37.5580143,0 127.0493120,37.5580549,0 127.0491328,37.5581212,0 127.0489708,37.5582111,0 127.0488309,37.5583219,0 127.0487175,37.5584503,0 127.0486340,37.5585924,0 127.0485828,37.5587438,0 127.0485655,37.5589000,0 127.0485828,37.5590562,0 127.0486340,37.5592076,0 127.0487175,37.5593497,0 127.0488309,37.5594781,0 127.0489708,37.5595889,0 127.0491328,37.5596788,0 127.0493120,37.5597451,0 127.0495030,37.5597857,0 127.0497000,37.5597993,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>⑤ 발표 강의실: 한양여대 정보문화관 (반경 100m)</name><styleUrl>#hot</styleUrl><Polygon><outerBoundaryIs><LinearRing><coordinates>127.0490000,37.5594993,0 127.0491970,37.5594857,0 127.0493880,37.5594451,0 127.0495672,37.5593788,0 127.0497292,37.5592889,0 127.0498690,37.5591781,0 127.0499825,37.5590497,0 127.0500660,37.5589076,0 127.0501172,37.5587562,0 127.0501345,37.5586000,0 127.0501172,37.5584438,0 127.0500660,37.5582924,0 127.0499825,37.5581503,0 127.0498690,37.5580219,0 127.0497292,37.5579111,0 127.0495672,37.5578212,0 127.0493880,37.5577549,0 127.0491970,37.5577143,0 127.0490000,37.5577007,0 127.0488030,37.5577143,0 127.0486120,37.5577549,0 127.0484328,37.5578212,0 127.0482708,37.5579111,0 127.0481310,37.5580219,0 127.0480175,37.5581503,0 127.0479340,37.5582924,0 127.0478828,37.5584438,0 127.0478655,37.5586000,0 127.0478828,37.5587562,0 127.0479340,37.5589076,0 127.0480175,37.5590497,0 127.0481310,37.5591781,0 127.0482708,37.5592889,0 127.0484328,37.5593788,0 127.0486120,37.5594451,0 127.0488030,37.5594857,0 127.0490000,37.5594993,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
 <Placemark><name>#1 DANGER</name><description>① 한양대역·한양대 앞 상권</description><styleUrl>#danger</styleUrl><Point><coordinates>127.0409037,37.5593132,0</coordinates></Point></Placemark>
 <Placemark><name>#2 DANGER</name><description>① 한양대역·한양대 앞 상권</description><styleUrl>#danger</styleUrl><Point><coordinates>127.0409252,37.5583818,0</coordinates></Point></Placemark>
 <Placemark><name>#3 CAUTION</name><description>① 한양대역·한양대 앞 상권</description><styleUrl>#caution</styleUrl><Point><coordinates>127.0411409,37.5592553,0</coordinates></Point></Placemark>
@@ -103,8 +103,8 @@
 <Placemark><name>#90 DANGER</name><description>④ 청계천 변 사근동(용답역 맞은편)</description><styleUrl>#danger</styleUrl><Point><coordinates>127.0483823,37.5622615,0</coordinates></Point></Placemark>
 <Placemark><name>#91 DANGER</name><description>④ 청계천 변 사근동(용답역 맞은편)</description><styleUrl>#danger</styleUrl><Point><coordinates>127.0485880,37.5621293,0</coordinates></Point></Placemark>
 <Placemark><name>#92 CAUTION</name><description>④ 청계천 변 사근동(용답역 맞은편)</description><styleUrl>#caution</styleUrl><Point><coordinates>127.0481021,37.5617130,0</coordinates></Point></Placemark>
-<Placemark><name>#93 CAUTION</name><description>⑤ 발표 강의실 건물 주변(임시 좌표)</description><styleUrl>#caution</styleUrl><Point><coordinates>127.0495866,37.5590349,0</coordinates></Point></Placemark>
-<Placemark><name>#94 CAUTION</name><description>⑤ 발표 강의실 건물 주변(임시 좌표)</description><styleUrl>#caution</styleUrl><Point><coordinates>127.0499042,37.5587921,0</coordinates></Point></Placemark>
+<Placemark><name>#93 CAUTION</name><description>⑤ 발표 강의실: 한양여대 정보문화관</description><styleUrl>#caution</styleUrl><Point><coordinates>127.0487049,37.5584901,0</coordinates></Point></Placemark>
+<Placemark><name>#94 CAUTION</name><description>⑤ 발표 강의실: 한양여대 정보문화관</description><styleUrl>#caution</styleUrl><Point><coordinates>127.0494255,37.5583741,0</coordinates></Point></Placemark>
 <Placemark><name>#95 CAUTION</name><description>잡음(단독)</description><styleUrl>#caution</styleUrl><Point><coordinates>127.0464538,37.5669485,0</coordinates></Point></Placemark>
 <Placemark><name>#96 CAUTION</name><description>잡음(단독)</description><styleUrl>#caution</styleUrl><Point><coordinates>127.0436795,37.5593299,0</coordinates></Point></Placemark>
 <Placemark><name>#97 CAUTION</name><description>잡음(단독)</description><styleUrl>#caution</styleUrl><Point><coordinates>127.0395256,37.5542388,0</coordinates></Point></Placemark>
@@ -129,7 +129,7 @@
 <Placemark><name>#116 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0424581,37.5601844,0</coordinates></Point></Placemark>
 <Placemark><name>#117 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0326393,37.5608795,0</coordinates></Point></Placemark>
 <Placemark><name>#118 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0430635,37.5649334,0</coordinates></Point></Placemark>
-<Placemark><name>#119 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0478001,37.5573651,0</coordinates></Point></Placemark>
+<Placemark><name>#119 GOOD</name><description>양호(흩뿌림) → 차도 옆(행원파크 서쪽 도로)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0485057,37.5580755,0</coordinates></Point></Placemark>
 <Placemark><name>#120 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0466650,37.5560920,0</coordinates></Point></Placemark>
 <Placemark><name>#121 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0455047,37.5564568,0</coordinates></Point></Placemark>
 <Placemark><name>#122 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0386467,37.5700584,0</coordinates></Point></Placemark>
@@ -141,13 +141,13 @@
 <Placemark><name>#128 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0374602,37.5559637,0</coordinates></Point></Placemark>
 <Placemark><name>#129 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0447502,37.5569296,0</coordinates></Point></Placemark>
 <Placemark><name>#130 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0329198,37.5685425,0</coordinates></Point></Placemark>
-<Placemark><name>#131 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0508553,37.5579611,0</coordinates></Point></Placemark>
+<Placemark><name>#131 GOOD</name><description>양호(흩뿌림) → 차도 옆(캠퍼스 남쪽 도로)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0487939,37.5571454,0</coordinates></Point></Placemark>
 <Placemark><name>#132 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0426302,37.5589539,0</coordinates></Point></Placemark>
 <Placemark><name>#133 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0329462,37.5598180,0</coordinates></Point></Placemark>
 <Placemark><name>#134 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0447705,37.5682191,0</coordinates></Point></Placemark>
 <Placemark><name>#135 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0335567,37.5689271,0</coordinates></Point></Placemark>
 <Placemark><name>#136 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0406001,37.5610531,0</coordinates></Point></Placemark>
-<Placemark><name>#137 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0467435,37.5596626,0</coordinates></Point></Placemark>
+<Placemark><name>#137 GOOD</name><description>양호(흩뿌림) → 차도 옆(사근동10길(대각선))</description><styleUrl>#good</styleUrl><Point><coordinates>127.0490829,37.5592098,0</coordinates></Point></Placemark>
 <Placemark><name>#138 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0347115,37.5628952,0</coordinates></Point></Placemark>
 <Placemark><name>#139 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0415508,37.5685339,0</coordinates></Point></Placemark>
 <Placemark><name>#140 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0431426,37.5596943,0</coordinates></Point></Placemark>
@@ -164,14 +164,14 @@
 <Placemark><name>#151 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0388576,37.5588555,0</coordinates></Point></Placemark>
 <Placemark><name>#152 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0458338,37.5632929,0</coordinates></Point></Placemark>
 <Placemark><name>#153 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0441652,37.5636950,0</coordinates></Point></Placemark>
-<Placemark><name>#154 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0494583,37.5594989,0</coordinates></Point></Placemark>
+<Placemark><name>#154 GOOD</name><description>양호(흩뿌림) → 차도 옆(행원파크 서쪽 도로)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0481475,37.5580327,0</coordinates></Point></Placemark>
 <Placemark><name>#155 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0452140,37.5610194,0</coordinates></Point></Placemark>
 <Placemark><name>#156 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0411590,37.5546903,0</coordinates></Point></Placemark>
 <Placemark><name>#157 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0476432,37.5615034,0</coordinates></Point></Placemark>
 <Placemark><name>#158 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0316925,37.5668204,0</coordinates></Point></Placemark>
 <Placemark><name>#159 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0313767,37.5600207,0</coordinates></Point></Placemark>
 <Placemark><name>#160 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0319587,37.5604797,0</coordinates></Point></Placemark>
-<Placemark><name>#161 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0473888,37.5589849,0</coordinates></Point></Placemark>
+<Placemark><name>#161 GOOD</name><description>양호(흩뿌림) → 차도 옆(사근동10길→살곶이길 연결로)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0497575,37.5592578,0</coordinates></Point></Placemark>
 <Placemark><name>#162 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0402531,37.5685434,0</coordinates></Point></Placemark>
 <Placemark><name>#163 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0306877,37.5568195,0</coordinates></Point></Placemark>
 <Placemark><name>#164 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0449666,37.5667254,0</coordinates></Point></Placemark>
@@ -181,9 +181,9 @@
 <Placemark><name>#168 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0362846,37.5566654,0</coordinates></Point></Placemark>
 <Placemark><name>#169 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0437290,37.5634472,0</coordinates></Point></Placemark>
 <Placemark><name>#170 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0484496,37.5627145,0</coordinates></Point></Placemark>
-<Placemark><name>#171 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0474059,37.5602652,0</coordinates></Point></Placemark>
+<Placemark><name>#171 GOOD</name><description>양호(흩뿌림) → 차도 옆(정보문화관 서쪽 도로)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0484686,37.5585196,0</coordinates></Point></Placemark>
 <Placemark><name>#172 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0476122,37.5638268,0</coordinates></Point></Placemark>
-<Placemark><name>#173 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0491568,37.5604493,0</coordinates></Point></Placemark>
+<Placemark><name>#173 GOOD</name><description>양호(흩뿌림) → 차도 옆(캠퍼스 남쪽 도로)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0493698,37.5572601,0</coordinates></Point></Placemark>
 <Placemark><name>#174 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0449779,37.5552765,0</coordinates></Point></Placemark>
 <Placemark><name>#175 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0396403,37.5614526,0</coordinates></Point></Placemark>
 <Placemark><name>#176 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0511165,37.5624924,0</coordinates></Point></Placemark>
@@ -195,7 +195,7 @@
 <Placemark><name>#182 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0377749,37.5619162,0</coordinates></Point></Placemark>
 <Placemark><name>#183 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0344980,37.5671171,0</coordinates></Point></Placemark>
 <Placemark><name>#184 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0510291,37.5636280,0</coordinates></Point></Placemark>
-<Placemark><name>#185 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0470816,37.5598088,0</coordinates></Point></Placemark>
+<Placemark><name>#185 GOOD</name><description>양호(흩뿌림) → 차도 옆(캠퍼스 남쪽 도로)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0495413,37.5572773,0</coordinates></Point></Placemark>
 <Placemark><name>#186 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0454159,37.5589094,0</coordinates></Point></Placemark>
 <Placemark><name>#187 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0343113,37.5620286,0</coordinates></Point></Placemark>
 <Placemark><name>#188 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0465888,37.5647216,0</coordinates></Point></Placemark>
@@ -213,9 +213,9 @@
 <Placemark><name>#200 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0354453,37.5645636,0</coordinates></Point></Placemark>
 <Placemark><name>#201 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0312086,37.5565629,0</coordinates></Point></Placemark>
 <Placemark><name>#202 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0508119,37.5644390,0</coordinates></Point></Placemark>
-<Placemark><name>#203 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0478339,37.5603061,0</coordinates></Point></Placemark>
+<Placemark><name>#203 GOOD</name><description>양호(흩뿌림) → 차도 옆(살곶이길 서쪽 보도 쪽)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0503394,37.5593464,0</coordinates></Point></Placemark>
 <Placemark><name>#204 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0400289,37.5555395,0</coordinates></Point></Placemark>
-<Placemark><name>#205 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0499947,37.5579132,0</coordinates></Point></Placemark>
+<Placemark><name>#205 GOOD</name><description>양호(흩뿌림) → 차도 옆(사근동10길(대각선))</description><styleUrl>#good</styleUrl><Point><coordinates>127.0487328,37.5588999,0</coordinates></Point></Placemark>
 <Placemark><name>#206 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0353383,37.5549685,0</coordinates></Point></Placemark>
 <Placemark><name>#207 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0423652,37.5593804,0</coordinates></Point></Placemark>
 <Placemark><name>#208 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0334864,37.5670344,0</coordinates></Point></Placemark>
@@ -236,7 +236,7 @@
 <Placemark><name>#223 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0310699,37.5562611,0</coordinates></Point></Placemark>
 <Placemark><name>#224 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0400983,37.5543804,0</coordinates></Point></Placemark>
 <Placemark><name>#225 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0346949,37.5592246,0</coordinates></Point></Placemark>
-<Placemark><name>#226 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0478398,37.5581101,0</coordinates></Point></Placemark>
+<Placemark><name>#226 GOOD</name><description>양호(흩뿌림) → 차도 옆(사근동10길(북쪽))</description><styleUrl>#good</styleUrl><Point><coordinates>127.0493137,37.5592736,0</coordinates></Point></Placemark>
 <Placemark><name>#227 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0310936,37.5667361,0</coordinates></Point></Placemark>
 <Placemark><name>#228 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0383389,37.5572369,0</coordinates></Point></Placemark>
 <Placemark><name>#229 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0308374,37.5664392,0</coordinates></Point></Placemark>
@@ -260,7 +260,7 @@
 <Placemark><name>#247 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0419221,37.5558660,0</coordinates></Point></Placemark>
 <Placemark><name>#248 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0386637,37.5577273,0</coordinates></Point></Placemark>
 <Placemark><name>#249 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0459345,37.5627894,0</coordinates></Point></Placemark>
-<Placemark><name>#250 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0489508,37.5578982,0</coordinates></Point></Placemark>
+<Placemark><name>#250 GOOD</name><description>양호(흩뿌림) → 차도 옆(살곶이길 서쪽 보도 쪽)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0508938,37.5580905,0</coordinates></Point></Placemark>
 <Placemark><name>#251 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0321791,37.5574527,0</coordinates></Point></Placemark>
 <Placemark><name>#252 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0333121,37.5673037,0</coordinates></Point></Placemark>
 <Placemark><name>#253 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0362023,37.5553376,0</coordinates></Point></Placemark>
@@ -268,7 +268,7 @@
 <Placemark><name>#255 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0428490,37.5594686,0</coordinates></Point></Placemark>
 <Placemark><name>#256 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0373571,37.5651142,0</coordinates></Point></Placemark>
 <Placemark><name>#257 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0315291,37.5562080,0</coordinates></Point></Placemark>
-<Placemark><name>#258 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0473673,37.5576359,0</coordinates></Point></Placemark>
+<Placemark><name>#258 GOOD</name><description>양호(흩뿌림) → 차도 옆(행원파크 서쪽 도로)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0487320,37.5574239,0</coordinates></Point></Placemark>
 <Placemark><name>#259 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0431952,37.5663242,0</coordinates></Point></Placemark>
 <Placemark><name>#260 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0371346,37.5573892,0</coordinates></Point></Placemark>
 <Placemark><name>#261 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0337100,37.5600204,0</coordinates></Point></Placemark>
@@ -279,7 +279,7 @@
 <Placemark><name>#266 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0382114,37.5556268,0</coordinates></Point></Placemark>
 <Placemark><name>#267 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0470427,37.5557910,0</coordinates></Point></Placemark>
 <Placemark><name>#268 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0366713,37.5652704,0</coordinates></Point></Placemark>
-<Placemark><name>#269 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0497319,37.5601228,0</coordinates></Point></Placemark>
+<Placemark><name>#269 GOOD</name><description>양호(흩뿌림) → 차도 옆(전산관·교수회관 동쪽 도로)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0494181,37.5577923,0</coordinates></Point></Placemark>
 <Placemark><name>#270 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0420573,37.5540282,0</coordinates></Point></Placemark>
 <Placemark><name>#271 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0448746,37.5655737,0</coordinates></Point></Placemark>
 <Placemark><name>#272 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0441439,37.5694509,0</coordinates></Point></Placemark>
@@ -299,10 +299,10 @@
 <Placemark><name>#286 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0442565,37.5539318,0</coordinates></Point></Placemark>
 <Placemark><name>#287 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0298391,37.5643744,0</coordinates></Point></Placemark>
 <Placemark><name>#288 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0302240,37.5597919,0</coordinates></Point></Placemark>
-<Placemark><name>#289 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0500235,37.5601829,0</coordinates></Point></Placemark>
+<Placemark><name>#289 GOOD</name><description>양호(흩뿌림) → 차도 옆(사근동10길(대각선))</description><styleUrl>#good</styleUrl><Point><coordinates>127.0489475,37.5591239,0</coordinates></Point></Placemark>
 <Placemark><name>#290 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0307472,37.5646458,0</coordinates></Point></Placemark>
 <Placemark><name>#291 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0394007,37.5554214,0</coordinates></Point></Placemark>
-<Placemark><name>#292 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0480310,37.5567646,0</coordinates></Point></Placemark>
+<Placemark><name>#292 GOOD</name><description>양호(흩뿌림) → 차도 옆(캠퍼스 남쪽 도로)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0501372,37.5574039,0</coordinates></Point></Placemark>
 <Placemark><name>#293 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0440652,37.5588088,0</coordinates></Point></Placemark>
 <Placemark><name>#294 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0517939,37.5600955,0</coordinates></Point></Placemark>
 <Placemark><name>#295 GOOD</name><description>양호(흩뿌림)</description><styleUrl>#good</styleUrl><Point><coordinates>127.0397411,37.5577158,0</coordinates></Point></Placemark>

@@ -27,9 +27,25 @@ HOTSPOTS = [
 CLUSTER_SIGMA_M = 35     # 핫스팟 안 흩어짐(표준편차)
 CLUSTER_CLIP_M = 90      # 중심에서 최대 거리 (DBSCAN 반경 100m 안)
 
-# ⑤ 발표 강의실 건물: 확정 전까지 한양여자대학교 위키백과 좌표를 임시로 사용
-LECTURE_HALL = ("⑤ 발표 강의실 건물 주변(임시 좌표)", 37.5589, 127.0497)
-LECTURE_SEED_OFFSETS_M = [(15, -10), (-12, 18)]  # (북쪽 m, 동쪽 m) 주의 마커 2개
+# ⑤ 발표 강의실 건물: 한양여자대학교 정보문화관 (2026-11-26 확정, Google 지도 위치 기준 근사 좌표)
+LECTURE_HALL = ("⑤ 발표 강의실: 한양여대 정보문화관", 37.5586, 127.0490)
+# ⑤ 주의 마커 2개: 정보문화관 서쪽 도로와 동쪽 도로 가장자리 (건물 안이 아니라 차도 옆)
+LECTURE_SEEDS = [(37.5584901, 127.0487049), (37.5583741, 127.0494255)]
+
+# 정보문화관 주변(반경 LOCAL_ZONE_R m)은 무작위 배치 대신 아래 차도 가장자리 위에만 마커를 둠.
+# 2026-11-26 Google 내 지도 화면에서 따라 그린 근사 선(오차 약 5~10m). 건물 안·운동장·캠퍼스 광장에는 두지 않음
+LOCAL_ZONE_R = 235
+LOCAL_ROADS = {
+    # (선 이름, 가장자리 여부): 가장자리=True면 선 위에, False(도로 중심선)면 양쪽 4m 옆에 배치
+    ("살곶이길 서쪽 보도 쪽", True): [(37.5597703, 127.0502057), (37.5594524, 127.050287), (37.5591345, 127.0504441), (37.5587178, 127.0506283), (37.5585674, 127.0507096), (37.5580905, 127.0508938), (37.5576137, 127.0510347), (37.5571368, 127.0510726)],
+    ("사근동10길(대각선)", False): [(37.5589283, 127.0487049), (37.5590958, 127.0489758), (37.5592676, 127.0492467)],
+    ("사근동10길(북쪽)", False): [(37.5592762, 127.0492684), (37.5595125, 127.0492901), (37.5597703, 127.0493063)],
+    ("사근동10길→살곶이길 연결로", False): [(37.5592934, 127.0492684), (37.5592934, 127.0497506), (37.5593622, 127.0503141)],
+    ("캠퍼스 남쪽 도로", False): [(37.5571798, 127.0487808), (37.5572786, 127.0491925), (37.5573302, 127.0497072), (37.5573645, 127.0499944), (37.5573817, 127.050715), (37.5572356, 127.0508721), (37.5569349, 127.0509588)],
+    ("정보문화관 서쪽 도로", False): [(37.5584815, 127.0474588), (37.5584901, 127.0480006), (37.5584815, 127.0486236), (37.5584901, 127.0487862)],
+    ("행원파크 서쪽 도로", False): [(37.5579273, 127.0478597), (37.5580691, 127.0484611), (37.55788, 127.0485045), (37.5571798, 127.0487808)],
+    ("전산관·교수회관 동쪽 도로", False): [(37.55846, 127.0494201), (37.5581808, 127.0494418), (37.5577941, 127.0494634), (37.5574504, 127.0494851)],
+}
 
 N_GOOD = 220             # 범위 전체에 흩뿌릴 양호 마커
 N_NOISE_SINGLE = 8       # 단독 주의 마커 (DBSCAN 잡음)
@@ -157,8 +173,8 @@ for name, clat, clng, n, danger_ratio, _ in HOTSPOTS:
                 break
         add(q, st, name)
 
-for north, east in LECTURE_SEED_OFFSETS_M:
-    add(offset(LECTURE_HALL[1], LECTURE_HALL[2], north, east), "CAUTION", LECTURE_HALL[0])
+for p in LECTURE_SEEDS:
+    add(p, "CAUTION", LECTURE_HALL[0])
 
 noise_points = []
 
@@ -189,6 +205,53 @@ while len(good_points) < N_GOOD:
     if all(haversine(p, g) >= 25 for g in good_points):
         good_points.append(p)
         add(p, "GOOD", "양호(흩뿌림)")
+
+# ---------------------------------------------------------------- 정보문화관 주변: 차도 가장자리로 옮기기
+def road_slots(step_m=12):
+    slots = []
+    for (name, is_edge), pts in LOCAL_ROADS.items():
+        for (a, b) in zip(pts, pts[1:]):
+            seg = haversine(a, b)
+            n = max(1, int(seg // step_m))
+            # 진행 방향에 수직인 단위 벡터 (북, 동 m)
+            dn = (b[0] - a[0]) * 111320
+            de = (b[1] - a[1]) * 111320 * math.cos(math.radians(a[0]))
+            L = math.hypot(dn, de) or 1
+            pn, pe = -de / L, dn / L
+            for k in range(n):
+                t = k / n
+                base = (a[0] + (b[0] - a[0]) * t, a[1] + (b[1] - a[1]) * t)
+                sides = [0] if is_edge else [4, -4]
+                for sd in sides:
+                    slots.append((offset(base[0], base[1], pn * sd, pe * sd), name))
+    return slots
+
+
+LRNG = random.Random(1126)
+zone_center = (LECTURE_HALL[1], LECTURE_HALL[2])
+slots = [s_ for s_ in road_slots() if in_area(s_[0])]
+LRNG.shuffle(slots)
+taken = list(LECTURE_SEEDS)
+moved = 0
+for d in drains:
+    p = (d["lat"], d["lng"])
+    if d["group"] == LECTURE_HALL[0] or haversine(p, zone_center) > LOCAL_ZONE_R:
+        continue
+    risky = d["status"] != "GOOD"
+    for i, (q, name) in enumerate(slots):
+        if any(haversine(q, t) < 15 for t in taken):
+            continue
+        if risky and any(haversine(q, t) < 150 for t in LECTURE_SEEDS):
+            continue
+        d["lat"], d["lng"] = q
+        d["group"] += " → 차도 옆(%s)" % name
+        taken.append(q)
+        slots.pop(i)
+        moved += 1
+        break
+    else:
+        raise SystemExit("정보문화관 주변 차도 자리가 모자랍니다")
+print("[정보문화관 주변] 반경 %dm 안 마커 %d개를 차도 가장자리로 옮김" % (LOCAL_ZONE_R, moved))
 
 # 검증: 모든 마커가 범위 안
 assert all(in_area((d["lat"], d["lng"])) for d in drains), "범위 밖 마커가 있습니다"

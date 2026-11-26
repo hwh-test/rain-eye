@@ -37,7 +37,7 @@ FROM (
     SELECT '② 왕십리역 주변',      37.5614, 127.0372 UNION ALL
     SELECT '③ 마장동 축산물시장',  37.5688, 127.0412 UNION ALL
     SELECT '④ 청계천 변 사근동',   37.5620, 127.0482 UNION ALL
-    SELECT '⑤ 강의실(임시 좌표)',  37.5589, 127.0497
+    SELECT '⑤ 강의실 정보문화관',  37.5586, 127.0490
 ) c
 LEFT JOIN drains dr
        ON dr.status IN ('DANGER', 'CAUTION')
